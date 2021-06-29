@@ -1,6 +1,6 @@
-Esse repósitório contém links de dashboards Power Bi feitos por mim e publicados na web
+Este repósitório contém links de dashboards Power Bi feitos por mim e publicados na web
 
-Obs.: os dados utilizados nesses dashboards são fictícios e não retratam a realidade de nenhuma empresa
+Obs.: os dados utilizados nestes dashboards são fictícios e não retratam a realidade de nenhuma empresa
 
 1) Dashboard Vendas:
 
