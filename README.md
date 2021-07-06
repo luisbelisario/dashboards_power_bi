@@ -11,4 +11,17 @@ Nesse dashboard foram requisitadas informações como:
 - Valor total de venda da empresa
 - Matriz de vendas por fabricante
 
-Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTk4MWM5ZTctM2YwOC00MWNlLThhNGEtYTJjNjhhNmMxY2FhIiwidCI6IjJmN2JkYTJjLTAxMmYtNDU1ZC1iMmJjLTViMDI0ODQ4NDE3NCJ9
+Link: https://app.powerbi.com/view?r=eyJrIjoiMTk4MWM5ZTctM2YwOC00MWNlLThhNGEtYTJjNjhhNmMxY2FhIiwidCI6IjJmN2JkYTJjLTAxMmYtNDU1ZC1iMmJjLTViMDI0ODQ4NDE3NCJ9
+
+2) Dashboard Vendas 2:
+
+Esse dashboard soluciona as seguintes perguntas de negócio:
+- Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas? (já resolvido)
+
+- Qual o total de vendas por estado e por categoria? Use um mapa.
+
+- Qual o total de vendas por segmento? 
+
+- Qual segmento tem maior influência no valor médio de venda? 
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiN2NlY2IxMWQtOTEyNi00YTZjLWFiOGUtZDA1YjE1NjViMzU5IiwidCI6IjJmN2JkYTJjLTAxMmYtNDU1ZC1iMmJjLTViMDI0ODQ4NDE3NCJ9&pageName=ReportSection
