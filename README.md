@@ -22,6 +22,6 @@ Esse dashboard soluciona as seguintes perguntas de negócio:
 
 - Qual o total de vendas por segmento? 
 
-- Qual segmento tem maior influência no valor médio de venda? 
+- Qual segmento tem maior valor médio de venda? 
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiN2NlY2IxMWQtOTEyNi00YTZjLWFiOGUtZDA1YjE1NjViMzU5IiwidCI6IjJmN2JkYTJjLTAxMmYtNDU1ZC1iMmJjLTViMDI0ODQ4NDE3NCJ9&pageName=ReportSection
