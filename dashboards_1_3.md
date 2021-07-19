@@ -17,7 +17,7 @@ Link: https://app.powerbi.com/view?r=eyJrIjoiMTk4MWM5ZTctM2YwOC00MWNlLThhNGEtYTJ
 
 Esse dashboard soluciona as seguintes perguntas de negócio:
 - Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?
-- Qual o total de vendas por estado e por categoria? Use um mapa.
+- Qual o total de vendas por estado e por categoria?
 - Qual o total de vendas por segmento? 
 - Qual segmento tem maior valor médio de venda? 
 
