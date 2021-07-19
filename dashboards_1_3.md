@@ -1,4 +1,4 @@
-Este repósitório contém links de dashboards no Power Bi feitos por mim e publicados na web
+Este repósitório contém links de dashboards no Power Bi 
 
 Obs.: os dados utilizados nestes dashboards são fictícios e não retratam a realidade de nenhuma empresa
 
